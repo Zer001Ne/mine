@@ -1,0 +1,97 @@
+body{
+	background-image: url(mine.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: left;
+	background-origin: bottom;
+	height: 1350px;
+	width: 1350px;
+
+}
+
+ h1{
+ 	color: darkgoldenrod;
+    font-weight: 400 !important;
+ 	border-width: 400;
+ 	margin-left: 10px;
+ 	padding: 15px 32px;
+}
+
+
+p{
+	color: dodgerblue ;
+	font-size:x-large;
+	font-style: oblique;
+	padding-bottom: 22px;
+	margin-left: 50px;
+
+}
+.home{
+	color: darkred;
+    font-weight: 400 !important;
+ 	border-width: 400;
+ 	margin-left: 10px;
+ 	padding: 15px 20px;
+}
+.about{
+	color: darkred;
+    font-weight: 400 !important;
+ 	border-width: 200;
+ 	margin-left: 10px;
+ 	padding: 15px 20px;
+}
+.work{
+	color: darkred;
+    font-weight: 400;
+ 	border-width: 200;
+ 	margin-left: 5px;
+ 	padding: 15px 20px;
+}
+.contact{
+	color: darkred;
+    font-weight: 400 !important;
+ 	border-width: 200;
+ 	margin-left: 10px;
+ 	padding: 15px 20px;
+}
+
+.navs{
+position: relative;
+float: right;
+display: block;
+color: blueviolet;
+margin-right: 10px;
+border: 2px;
+padding: 10px 32px;
+}
+
+.home:hover{
+	background-color: ghostwhite;
+}
+.about:hover{
+	background-color: ghostwhite;
+}
+.work:hover{
+	background-color: ghostwhite;
+}
+.contact:hover{
+	background-color: ghostwhite;
+}
+
+.button{
+    color: darkgoldenrod;
+    font-weight: 100 !important;
+    text-align: left;
+ 	border-width: 100px;
+ 	margin-left: 10px;
+ 	padding: 2px 40px
+}
+.intro{
+	color: darkgreen;
+    font-weight: 100 !important;
+    text-align: left;
+ 	border-width: 100px;
+ 	margin-left: 10px;
+ 	padding: 15px 32px;
+ 	font-family: sans-serif;
+}
